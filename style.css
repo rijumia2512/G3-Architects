@@ -6,3 +6,13 @@
     margin: 0px;
     font-family: 'Work Sans', sans-serif;
 }
+
+/* Header style  */
+header {
+    background: rgba(255, 144, 14, 0.10);
+    padding: 50px 240px;
+}
+nav {
+    display: flex;
+    justify-content: space-between;
+}
